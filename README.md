@@ -20,9 +20,9 @@
 
 <img src= "datasci6.PNG">
 
-<img src= "datascie7.PNG">
+<img src= "datasci7.PNG">
 
-<img src= "datascie8.PNG">
+<img src= "datasci8.PNG">
 
 <img src= "datasci9.PNG">
 
@@ -115,9 +115,11 @@
 <img src= "geograpical3.PNG">
 
 # Calculates World GDP Populations:
-
+---------------------------------
 <img src= "gdpworld.PNG">
 
+---------------------------------
 <img src= "gdpworld2.PNG">
 
+---------------------------------
 <img src= "gdpworld4.PNG">
